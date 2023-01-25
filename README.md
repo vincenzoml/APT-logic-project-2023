@@ -1,7 +1,7 @@
 # APT-logic-project-2023
 Joint EU project proposal Amsterdam + Tbilisi + Pisa
 
-**TAP** - Theory and Algorithms for Polyhedra (Tblisi +A msterdam + Pisa)
+**TAP** - Theory and Algorithms for Polyhedra (Tblisi + Amsterdam + Pisa)
 
 ## Index
 ### Widening_EU_PROPOSALS
