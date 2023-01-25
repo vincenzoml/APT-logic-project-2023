@@ -36,3 +36,6 @@ Afternoon session:
 
 https://www.youtube.com/watch?v=rbuDOB_oukQ
 
+A video presentation explaining how lump-sum funding works (and how to write proposals):
+
+https://www.youtube.com/watch?v=dWcJc6EkbXc&t=1s
