@@ -18,7 +18,7 @@ Each project should aim at indacatively an EU-contribution of between 0.8 and 1.
 
 Duration of project: 3 years (to be checked)
 
-Financial set-up: lump-sum arrangement
+Financial set-up: lump-sum arrangement (see also file: ls
 
 For further details: see yellow highlights in the documents in directory "WIDENING_EU_PROPOSALS". There also the general annexes can be found.
 
