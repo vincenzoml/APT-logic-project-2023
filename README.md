@@ -9,16 +9,14 @@ This directory contains the Work Programme of the EU 2023-2024 on widening the E
 Call name: HORIZON-WIDERA-2023-ACCESS-02-01: Twinning Bottom-Up
 Call opens: April 25, 2023
 Call closes: September 28, 2023
+Typical EU-contribution: 0.8 to 1.5 million euro's (in total 80 such projects can be funded by EU)
+Typical duration: 3 years (to be checked)
 
-Type of project: CSA (Coordination and Support Action), but with possibility of 30% of budget dedicated to research.
+Type of project: CSA (Coordination and Support Action), but with possibility of 30% of budget dedicated to research and 70% to coordination/support.
 
-Further constraints: Coordinator must be in "new" country, 50% of totsl budget to coordinator, other EU-partners can be added and share 50% of budget.
+Further constraints: Coordinator must be in "widening" country, 50% of total budget to coordinator. Other EU-partners can be added and share remainng 50% of budget.
 
-Each project should aim at indacatively an EU-contribution of between 0.8 and 1.5 million euro's. There is space to fund about 80 such projects.
+Financial set-up: lump-sum arrangement (see also file: ls-decision_he_en.pdf in directory "WIDENING_EU_PROPOSALS")
 
-Duration of project: 3 years (to be checked)
-
-Financial set-up: lump-sum arrangement (see also file: ls
-
-For further details: see yellow highlights in the documents in directory "WIDENING_EU_PROPOSALS". There also the general annexes can be found.
+Further details: see yellow highlights in the documents in directory "WIDENING_EU_PROPOSALS". There also the general annexes can be found.
 
