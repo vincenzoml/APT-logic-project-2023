@@ -28,7 +28,7 @@ The directory "Widening_EU_PROPOSALS" contains the Work Programme of the EU 2023
 
 A video presentation of the "widening" programme can be found here:
 
-Morning session:
+Morning session ("Twinning call" at time 2.04.35 in video below):
 
 https://www.youtube.com/watch?v=wdK-P91UtSo
 
