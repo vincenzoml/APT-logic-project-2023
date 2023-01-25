@@ -26,3 +26,7 @@ The directory "Widening_EU_PROPOSALS" contains the Work Programme of the EU 2023
 
 **Further details**: see yellow highlights in the documents in directory "WIDENING_EU_PROPOSALS". There also the general annexes can be found.
 
+A video presentation of the "widening" programme can be found here:
+
+https://www.google.com/search?client=firefox-b-d&q=draft+widera+call+EU+funding+2023#fpstate=ive&vld=cid:8dc3190f,vid:wdK-P91UtSo
+
