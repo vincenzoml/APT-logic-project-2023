@@ -18,7 +18,7 @@ The directory "Widening_EU_PROPOSALS" contains the Work Programme of the EU 2023
 
 **Type of project**: CSA (Coordination and Support Action), but with possibility of 30% of budget dedicated to research and 70% to coordination/support.
 
-**Further constraints**: Coordinator must be in "widening" country, 50% of total budget to coordinator. Other EU-partners can be added and share remainng 50% of budget.
+**Further constraints**: Coordinator must be in "widening" country, 50% of total budget to coordinator. Other EU-partners can be added and share remaining 50% of EU-contribution.
 
 **Financial set-up**: lump-sum arrangement (see also file: ls-decision_he_en.pdf in directory "WIDENING_EU_PROPOSALS")
 
